@@ -9,4 +9,8 @@ public class Sales {
     // more sales
 
     // holiday sales
+
+    // prices are increase
+
+    // prices are soo increases
 }
